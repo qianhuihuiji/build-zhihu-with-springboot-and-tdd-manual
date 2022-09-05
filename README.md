@@ -21,11 +21,12 @@
 
 | 技术                 | 说明                | 官网                                                 |
 | -------------------- | ------------------- | ---------------------------------------------------- |
-| SpringBoot           | 基本框架        | https://spring.io/projects/spring-boot               |
-| SpringSecurity       | 认证和授权框架      | https://spring.io/projects/spring-security           |
+| SpringBoot           | 基本框架             | https://spring.io/projects/spring-boot               |
+| SpringSecurity       | 认证和授权框架        | https://spring.io/projects/spring-security           |
+| Liquibase            | 数据库版本控制工具     | https://www.liquibase.org/       |
 | MyBatis              | ORM 框架             | http://www.mybatis.org/mybatis-3/zh/index.html       |
 | MyBatisGenerator     | 数据层代码生成      | http://www.mybatis.org/generator/index.html          |
-| PageHelper           | MyBatis 分页插件 | http://git.oschina.net/free/Mybatis_PageHelper       |
+| PageHelper           | MyBatis 分页插件    | http://git.oschina.net/free/Mybatis_PageHelper       |
 | Swagger-UI           | 文档生产工具        | https://github.com/swagger-api/swagger-ui            |
 | Hibernator-Validator | 验证框架            | http://hibernate.org/validator                       |
 | RabbitMQ             | 消息队列            | https://www.rabbitmq.com/                            |
