@@ -42,4 +42,6 @@
 | ------------- | ------ | ------------------------------------------------------------ |
 | JDK           | 1.8    | https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html |
 | Mysql         | 5.7    | https://www.mysql.com/                                       |
-| Redis         | 5.0    | https://redis.io/download                                    |
+| Docker        |     |                                     |
+
+>注：诸如mysql、redis等组件，均使用docker进行构建
