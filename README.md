@@ -98,7 +98,7 @@
 | Spring Boot | 应用框架 | https://spring.io/projects/spring-boot |
 | Spring Security | 认证和授权框架 | https://spring.io/projects/spring-security |
 | MyBatis | ORM 框架 | http://www.mybatis.org/mybatis-3/zh/index.html |
-| Liquibase/Flyway | 数据库版本控制工具 | https://www.liquibase.org/ |
+| Flyway | 数据库版本控制工具 |  |
 | JWT | Token 认证支持 | https://github.com/jwtk/jjwt |
 
 ### 测试工具
