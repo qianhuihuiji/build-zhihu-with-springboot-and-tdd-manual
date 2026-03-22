@@ -39,16 +39,15 @@
 
 ### 2. 全面的测试场景覆盖
 
-| 测试场景 | 说明 |
-|---------|------|
-| 数据库测试 | 使用 Testcontainers 创建隔离的测试数据库 |
-| 测试表单验证 | 验证用户输入的有效性 |
-| 测试文件上传 | 处理头像等文件上传场景 |
-| 测试邮件发送 | 模拟邮件发送进行账户验证 |
+| 测试场景        | 说明 |
+|-------------|------|
+| 数据库测试       | 使用 Testcontainers 创建隔离的测试数据库 |
+| 测试表单验证      | 验证用户输入的有效性 |
+| 测试文件上传(待完成) | 处理头像等文件上传场景 |
+| 测试邮件发送(待完成)      | 模拟邮件发送进行账户验证 |
 | 测试远程 API 调用 | 测试第三方 API 集成 |
-| 测试「异常」抛出 | 验证业务异常的正确处理 |
-| 模拟登录用户 | 使用 Spring Security 测试认证和授权 |
-| Contract 测试 | 确保 API 契约的稳定性 |
+| 测试「异常」抛出    | 验证业务异常的正确处理 |
+| 模拟登录用户      | 使用 Spring Security 测试认证和授权 |
 
 ### 3. 多层次的测试策略
 
@@ -116,10 +115,9 @@
 | 技术 | 说明 |
 |------|------|
 | PageHelper | MyBatis 分页插件 |
-| Swagger-UI | 文档生产工具 |
 | Hibernate Validator | 验证框架 |
 | Redis | 分布式缓存 |
-| Kafka/RabbitMQ | 消息队列 |
+| Kafka | 消息队列 |
 | Druid | 数据库连接池 |
 | Lombok | 简化对象封装工具 |
 
@@ -255,7 +253,7 @@ src
 
 ## 相关资源
 
-- **课程原始源码**：[build-zhihu-with-springboot-and-tdd](https://github.com/qianhuihuiji/build-zhihu-with-springboot-and-tdd)
+- **课程原始源码**：[build-zhihu-with-springboot-and-tdd](https://github.com/qianhuihuiji/spring-tdd-zhihu-startup/tree/practice-step-by-step)
 - **本文档源码**：[build-zhihu-with-springboot-and-tdd-manual](https://github.com/qianhuihuiji/build-zhihu-with-springboot-and-tdd-manual)
 
 ---
